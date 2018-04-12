@@ -1,0 +1,11 @@
+#wrapper{
+width: 50%;
+margin: 20px auto;
+}
+#btn{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+#name{
+    margin-bottom: 10px;
+}
